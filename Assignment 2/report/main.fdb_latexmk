@@ -1,10 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1743011308 "/home/procoder/Downloads/Assignment3/Fraud_Analytics/Assignment 2/report/main.tex" "main.pdf" "main" 1743011308 0
+["pdflatex"] 1743011695 "/home/procoder/Downloads/Assignment3/Fraud_Analytics/Assignment 2/report/main.tex" "main.pdf" "main" 1743011696 0
   "../bahnsen_cost_vs_offset.png" 1743011132 23285 6aba87efadd9c139bdcc1fdc8b067b16 ""
   "../bahnsen_plot.png" 1743011132 10332 cd7a80044f2194c06876ad6c81e7d0d9 ""
   "../vanilla_lr_cost_vs_offset.png" 1743010957 20936 e0fd5d8cb8ddc7403600a03ced6bf795 ""
   "/etc/texmf/web2c/texmf.cnf" 1703994540 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/procoder/Downloads/Assignment3/Fraud_Analytics/Assignment 2/report/main.tex" 1743011308 5326 865861fcf6711e80e9156250fce769e4 ""
+  "/home/procoder/Downloads/Assignment3/Fraud_Analytics/Assignment 2/report/main.tex" 1743011695 5429 ee75e9bfcc2963e55ae04674ce6a1efe ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -88,9 +88,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1676468108 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1703994654 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1703994692 7881051 77b6db4d096b616e182ab227ed0a0329 ""
-  "main.aux" 1743011308 2440 612ffd9209b86cc4a3c737bed76e51b4 "pdflatex"
-  "main.out" 1743011308 1573 60379a0e9ca309102d984cf0d2fde7fc "pdflatex"
-  "main.tex" 1743011308 5326 865861fcf6711e80e9156250fce769e4 ""
+  "main.aux" 1743011695 2440 612ffd9209b86cc4a3c737bed76e51b4 "pdflatex"
+  "main.out" 1743011695 1573 60379a0e9ca309102d984cf0d2fde7fc "pdflatex"
+  "main.tex" 1743011695 5429 ee75e9bfcc2963e55ae04674ce6a1efe ""
   (generated)
   "main.aux"
   "main.log"

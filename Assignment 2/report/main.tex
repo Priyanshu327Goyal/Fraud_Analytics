@@ -18,6 +18,7 @@ The dataset (\texttt{costsensitiveregression.csv}) contains 13 columns:
     \item The first 11 columns represent various features of financial transactions.
     \item The 12th column is the binary class label (0 for non-fraudulent, 1 for fraudulent).
     \item The 13th column gives the false negative cost (cost incurred if a fraudulent transaction is misclassified as non-fraudulent).
+    \item There are 147636 instances in the dataset where almost 30\% of the instances are fraudulent.
 \end{itemize}
 In our preprocessing, we reorder the columns so that the class label becomes the first column and the cost column (named \texttt{FNC}) is separated from the feature set. The data is then split into training and testing sets.
 
